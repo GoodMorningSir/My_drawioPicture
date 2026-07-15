@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 189.54 337.35">
+  <!-- Generator: Adobe Illustrator 30.5.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #4886b5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .st1 {
+        fill: #727171;
+      }
+
+      .st2 {
+        fill: #c9caca;
+      }
+
+      .st3 {
+        fill: #d24e4b;
+      }
+
+      .st4 {
+        fill: none;
+      }
+
+      .st5 {
+        fill: #ecc55b;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="st3" x="43.28" y="2.5" width="102.99" height="58.21" rx="29.1" ry="29.1"/>
+    <line class="st4" x1="95.77" y1="2.5" x2="95.77" y2="60.71"/>
+    <circle class="st2" cx="95.77" cy="31.61" r="14.79"/>
+  </g>
+  <g>
+    <rect class="st5" x="43.28" y="76.39" width="102.99" height="58.21" rx="29.1" ry="29.1"/>
+    <line class="st4" x1="95.77" y1="76.39" x2="95.77" y2="134.6"/>
+    <circle class="st2" cx="95.77" cy="105.5" r="14.79"/>
+  </g>
+  <g>
+    <rect class="st0" x="43.28" y="150.27" width="102.99" height="58.21" rx="29.1" ry="29.1"/>
+    <line class="st4" x1="95.77" y1="150.27" x2="95.77" y2="208.48"/>
+    <circle class="st2" cx="95.77" cy="179.39" r="14.79"/>
+  </g>
+  <g>
+    <rect class="st1" x="2.5" y="224.16" width="184.54" height="110.68" rx="55.34" ry="55.34"/>
+    <rect class="st2" x="43.2" y="246" width="101.15" height="67.01" rx="16.23" ry="16.23"/>
+  </g>
+</svg>
