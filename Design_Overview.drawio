@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="ltuaRx47YQaeHEwVZq95">
-    <mxGraphModel dx="735" dy="482" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="377" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry height="128.46" width="154.46" y="9.084292465596604" as="geometry" />
         </mxCell>
         <mxCell id="anMGUrHCgJQnKEZaOF8G-11" parent="anMGUrHCgJQnKEZaOF8G-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;Channel Discovery (§&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;IV-B&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;)&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="59.99875085878458" width="151.7883597883598" x="3.5373015873015845" y="-2" as="geometry" />
+          <mxGeometry height="59.99875085878458" width="151.7883597883598" x="1.5373015873015845" y="-2" as="geometry" />
         </mxCell>
         <mxCell id="anMGUrHCgJQnKEZaOF8G-40" connectable="0" parent="anMGUrHCgJQnKEZaOF8G-57" style="group;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="68" width="138.28" x="6.949999999999989" y="95.54429246559658" as="geometry" />
